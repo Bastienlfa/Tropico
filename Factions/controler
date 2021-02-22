@@ -1,0 +1,6 @@
+from Factions.model import Capitalistes
+
+
+def salope():
+    a = Capitalistes()
+

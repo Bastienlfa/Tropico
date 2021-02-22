@@ -1,0 +1,106 @@
+[
+  {
+  "description":"Des personnes se dont pleins des pauvres sur la plage, 1: leur trouver un logement, 2 : les balancer dans la mere"
+  },
+
+ {
+  "id" : "1",
+  "nom": "Capitalistes",
+   "approbation" : -8,
+   "Partisans": -7
+ },
+ {
+   "id" : "1",
+  "nom": "Communistes",
+   "approbation" : 8,
+   "Partisans": 7
+ },
+ {
+   "id" : "1",
+  "nom": "Liberaux",
+   "approbation" : 4,
+   "Partisans": 3
+ },
+ {
+   "id" : "1",
+  "nom": "Religieux",
+   "approbation" : 22,
+   "Partisans": 12
+ },
+   {
+     "id" : "1",
+  "nom": "Militaristes",
+     "approbation" : 1,
+     "Partisans": 2
+ },
+  {
+    "id" : "1",
+  "nom": "Ecologsites",
+    "approbation" : 2,
+    "Partisans": 2
+
+ },
+   {
+     "id" : "1",
+  "nom": "Nationalistes",
+     "Partisans": 3,
+     "approbation" : 22
+   },
+   {
+     "id" : "1",
+  "nom": "Loyalistes",
+     "approbation" :7 ,
+     "Partisans": 5
+ },
+
+
+ {
+  "id" : "2",
+  "nom": "Capitalistes",
+   "approbation" : 8,
+   "Partisans": 7
+ },
+ {
+   "id" : "2",
+  "nom": "Communistes",
+   "approbation" : -8,
+   "Partisans": -7
+ },
+ {
+   "id" : "2",
+  "nom": "Liberaux",
+   "approbation" : -4,
+   "Partisans": -3
+ },
+ {
+   "id" : "2",
+  "nom": "Religieux",
+   "approbation" : -22,
+   "Partisans": -12
+ },
+   {
+     "id" : "2",
+  "nom": "Militaristes",
+     "approbation" : -1,
+     "Partisans": -2
+ },
+  {
+    "id" : "2",
+  "nom": "Ecologsites",
+    "approbation" : -2,
+    "Partisans": -2
+
+ },
+   {
+     "id" : "2",
+  "nom": "Nationalistes",
+     "Partisans": -3,
+     "approbation" : -22
+   },
+   {
+     "id" : "2",
+  "nom": "Loyalistes",
+     "approbation" :-5 ,
+     "Partisans": -5
+ }
+]
